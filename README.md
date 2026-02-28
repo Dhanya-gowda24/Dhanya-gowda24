@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning: Python, basic AI concepts, and exploring various AI-powered tools<br><br>🤖 I’m curious about: Machine Learning, Chatbots, and automation<br><br>🛠️ Tools I’m exploring: ChatGPT, GitHub Copilot, and more<br><br>💡 Fun fact: I enjoy turning simple ideas into working Python programs!
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dhanya-gowda24&label=Profile%20views&color=blue" alt="Dhanya-gowda24" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanya_gowda.24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/dhanyatha-p-l-2266a5314) 
